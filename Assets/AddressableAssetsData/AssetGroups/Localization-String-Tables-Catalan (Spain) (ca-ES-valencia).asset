@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Catalan (Spain) (ca-ES-valencia)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Catalan (Spain) (ca-ES-valencia)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7faca223487f91846a7795d50b408772
+  m_SerializeEntries:
+  - m_GUID: c096324beccfc3040b40d6c9f0dbaf09
+    m_Address: textos_ca-ES-valencia
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES-valencia
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcb24668ba13120469dbd8db4558c1f7
+    m_Address: tabela de exemplo_ca-ES-valencia
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES-valencia
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 117b6bba7fee2064ea5e3198515c38bb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ce95781335e86e34cb649e90e117f0cc, type: 2}
+    - {fileID: 11400000, guid: 861bff28b46c7c645bb1a3011cce01b0, type: 2}

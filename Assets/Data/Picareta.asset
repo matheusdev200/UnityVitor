@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88f8e73e60a7a54491b8a3a46667f89, type: 3}
+  m_Name: Picareta
+  m_EditorClassIdentifier: 
+  toolName: "P\xE1careta Eletrificada"
+  toolCost: 75
+  inventorySize: 3
+  useRange: 2
+  breakable: 0
+  durability: 0
+  effectPrefab: {fileID: 4759074931949992258, guid: c7d119d9d1ddb9c48bf636f81b5e33f2,
+    type: 3}
+  toolPrefab: {fileID: 919132149155446097, guid: 0f00ceb53adc3a84db26779cc5f55eb5,
+    type: 3}

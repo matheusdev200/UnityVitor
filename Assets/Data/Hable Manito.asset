@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f4e37e9d0bbb5b4db5d9697a190c144, type: 3}
+  m_Name: Hable Manito
+  m_EditorClassIdentifier: 
+  textSpeed: 0.1
+  dialogueLines:
+  - "hola manito! yo no lo co\xF1osco sinhor! arriba pe-de-pano"
+  - tava assistindo a live do samuka hoje
+  - we sometimes speak in english
+  - cabou as falinha
+  - 'mais falinhas
+
+'
+  font: {fileID: 11400000, guid: 9e95c093be4ad1342845be4911182bff, type: 2}

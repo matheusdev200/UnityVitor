@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Estilo%20do%20Menu.uss?fileID=7433441132597879392&amp;guid=9383b8007c500dc449e953abf3d8f7c1&amp;type=3#Estilo do Menu" />
+    <ui:VisualElement name="Div" style="flex-grow: 1;">
+        <ui:Label tabindex="-1" text="Jogo de Teste" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TituloDoJogo" class="titulo" style="transition-duration: 0.3s, 0.3s; transition-property: scale, background-color;" />
+        <ui:Button text="Play" parse-escape-sequences="true" display-tooltip-when-elided="true" name="BotaoDePlay" class="botao" style="position: relative; top: 300px; bottom: auto; width: 350px; height: 80px; font-size: 64px; transition-delay: 0.1s, 0s; transition-timing-function: linear, ease; transition-duration: 0.3s, 0s; transition-property: scale, background-color;" />
+    </ui:VisualElement>
+</ui:UXML>
